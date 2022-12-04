@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-fp = open("input2.txt", "r")
+fp = open("../input/input2.txt", "r")
 guide = fp.readlines()
 score = 0
 for line in guide:

@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 try:
-    fp = open("input.txt", "r")
+    fp = open("../input/input1.txt", "r")
 except OSError:
     print("Failed to open file")
     exit
