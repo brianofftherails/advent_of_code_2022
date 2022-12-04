@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 
 try:
     fp = open("input.txt", "r")
